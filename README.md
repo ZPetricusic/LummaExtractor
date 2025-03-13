@@ -19,6 +19,8 @@ but great articles on the custom obfuscating compiler used in both samples was w
 > Please note that the logic for this extractor was partially borrowed from [@RussianPanda95](https://github.com/RussianPanda95/Configuration_extractors/tree/main/LummaC2),
 kudos to her and the work she has done for the community.
 
+The original analyzed sample and all relevant stages are in the `LummaStages.7z` archive, password is `infected`.
+
 # Usage
 
 The usage is relatively straightforward:
@@ -83,3 +85,7 @@ Key: 37360826
 # Credits
 
 As mentioned before, the logic was partially borrowed from [@RussianPanda95](https://github.com/RussianPanda95) ([Twitter/X @RussianPanda9xx](https://x.com/russianpanda9xx)), huge thanks goes to her and her research.
+
+# Blog post
+
+The related blogpost is available on Medium: [‘CAPTCHA me if you can’ — unmasking LummaC2, one curtain at a time](https://kerberpoasting.medium.com/captcha-me-if-you-can-unmasking-lummac2-one-curtain-at-a-time-6a3e1deaaf40)
